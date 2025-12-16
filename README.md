@@ -10,3 +10,10 @@ Sou um programador Front End, arualmente estou aprendendo e criando projetos em 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=forttway-01&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=forttway-01" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=forttway-01=compact&langs_count=8&card_width=320" />
+</a>
