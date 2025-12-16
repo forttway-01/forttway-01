@@ -5,15 +5,4 @@ Sou um programador Front End, arualmente estou aprendendo e criando projetos em 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=forttway-01)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=forttway-01&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forttway-01=true)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=forttway-01" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=forttway-01=compact&langs_count=8&card_width=320" />
-</a>
